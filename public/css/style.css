@@ -1,0 +1,17 @@
+html, body {
+    height: 100%; 
+    margin: 0;
+}
+body{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to top, rgb(61, 61, 207), purple);
+}
+.container{
+    text-align: center;
+}
+p{
+    font-size: 22px;
+}
